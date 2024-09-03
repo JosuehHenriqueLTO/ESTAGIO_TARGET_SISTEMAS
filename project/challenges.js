@@ -44,11 +44,11 @@ function countLetter(string, letter) {
     };
 }
 
-let patrai = "patraiaAaA"
+let str = "TARGET-SISTEMAS-estagio"
 let a = "a"
-test = countLetter(patrai, a)
+let counting = countLetter(str, a)
 
-console.log(test)
+console.log(counting)
 
 console.log("==========================================================")
 
